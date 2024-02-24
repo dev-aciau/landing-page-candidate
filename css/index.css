@@ -160,7 +160,7 @@ a.menu-item:hover {
     display: block;
     width: 28px;
     height: 3px;
-    background: #C5A181;
+    background: #f4f4f4;
     margin: 5px;
 }
   
@@ -170,7 +170,7 @@ a.menu-item:hover {
   
 @media screen and (max-width: 750px) {
     .menus.nav-group {
-      background-color: rgba(64, 56, 55, 1);
+      background-color: rgba(0, 166, 173, 1);
       display: flex;
       flex-direction: column;
       padding: 0 !important;
